@@ -1,4 +1,10 @@
-## TO BE DONE!!!
+## Hello stranger！
+My name is Wang and I am an undergraduate student at PKU.
+
+My research interests are in the following areas:
+-  Artificial intelligence-based protein design
+-  Structure-based drug design (SBDD)
+-  Machine learning force fields for molecular dynamics
 
 <!--
 **TherealPetrichor/TherealPetrichor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
